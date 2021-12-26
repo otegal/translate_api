@@ -1,0 +1,13 @@
+{
+  "name": "translate_api",
+  "version": "0.0.1",
+  "description": "translate by Google Apps Script",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "otegal",
+  "dependencies": {
+    "@types/google-apps-script": "^1.0.41"
+  }
+}
